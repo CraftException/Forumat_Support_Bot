@@ -1,0 +1,10 @@
+#Node Modules. Can be installed by running 'npm install' in Terminal
+/node_modules/
+package-lock.json
+
+#Compiled JavaScript Files
+*.js
+
+#IntelliJ Idea Folders
+/.idea/
+Forumat-Support.iml
